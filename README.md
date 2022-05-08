@@ -26,6 +26,9 @@ The following are criteria for a frequency distribution to be a binomial distrib
 ![image](https://user-images.githubusercontent.com/104613195/166250867-46571ef5-f77b-4658-86ce-1c60c52fdfb1.png)
 
 # Program
+### Developed by
+### Register Number: 212220230014
+### Name: A.Divya Meenakshi
 ```python3
 import numpy as np
 import math
@@ -57,7 +60,7 @@ if cal_chi2<tab_chi2:
 else:
     print("The given data cannot be fitted in binomial distribution at 1% LOS")
 ```
-
-
-
-# Results and Output : 
+# Output : 
+![image](https://user-images.githubusercontent.com/75235167/166418931-67b8942d-0881-4c48-859c-3ab86dec9f22.png)
+# Result :
+Thus, fitting binomial distribution for the given frequencey distribution is verified.
